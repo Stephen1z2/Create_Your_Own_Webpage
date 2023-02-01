@@ -1,0 +1,41 @@
+body{
+    background-color: magenta;
+}
+
+/* Contains header styles */
+
+h1{
+    font-weight: bolder;
+    color: #00FFFF;
+}
+
+main h3{
+    font-size: 200%;
+    color: #00FFFF;
+}
+
+/* Contains Main styles */
+
+.Sadie{
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 200%;
+    text-shadow: -2px -2px;
+    color: yellow;
+}
+
+ul>li{
+    font-weight: bolder;
+    color: #00FFFF;
+}
+
+footer p, main a{
+    text-align: center;
+    display: block;
+    color: #00FFFF;
+}
+
+a:hover, a:focus{
+    font-style: italic;
+    font-size: 500%;
+}
